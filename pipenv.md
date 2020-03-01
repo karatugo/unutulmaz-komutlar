@@ -1,3 +1,13 @@
+Install pip3
+============
+
+```bash
+sudo apt install python3-pip
+```
+
+Install flask etc.
+==================
+
 ```bash
 pipenv --python 3.6 install flask
 pipenv --python 3.6 install django==2.2
