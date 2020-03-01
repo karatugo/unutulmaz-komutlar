@@ -1,3 +1,12 @@
+Create DB
+=========
+
+```
+python3
+from app import db
+db.create_all()
+```
+
 Start python3 console:
 
 ```
