@@ -1,9 +1,18 @@
-Install pip3
-============
+Install pip3 & pipenv
+=====================
 
 ```bash
 sudo apt install python3-pip
+pip3 install pipenv
 ```
+
+Now, they are installed. You are able to run:
+
+```
+python3 -m pipenv install
+python3 -m pipenv shell
+```
+
 
 Install flask etc.
 ==================
