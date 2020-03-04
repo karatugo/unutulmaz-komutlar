@@ -24,3 +24,10 @@ python manage.py startapp leads
 
 
 5. Add 'leads' and 'rest_framework' to `INSTALLED_APPS`
+
+6. Create Lead model & makemigrations & migrate
+
+7. Create leads/serializers.py
+
+8. Create leads/api.py
+
